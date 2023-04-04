@@ -1,2 +1,2 @@
-# Cafesito
+# cafe-page
 Página de prueba para escuela

@@ -1,0 +1,61 @@
+/* -------- BOTONES DE TARJETAS ----------- */
+.btn-style{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.btn-principal{
+    color: white;
+    background-color: #4a4e69;
+    font-weight: 400;
+}
+.btn-secundario{
+    color: white;
+    background-color: #22223b;
+    font-weight: 400;
+}
+/* ---------- MAIN -------------- */
+.bg-main{
+    background-color: #f2e9e4;
+}
+.main-title{ 
+    text-align: center;;
+    margin: 0 0;
+    padding: 20px;
+    color: black;
+}
+/* ------------- TARJETAS ----------- */
+.products-shop{
+    display: flex;
+    gap: 10px
+}
+.tarjeta2{
+    
+    background-color: #c9ada7;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.img-card{
+    
+    width: 100%;
+}
+.card-body{
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.card-body h5{
+    font-size: 20px;
+    font-weight: 500px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.card-body p{
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+}

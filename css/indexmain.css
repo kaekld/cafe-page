@@ -1,0 +1,23 @@
+.info-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: #c9ada7;
+    border-radius: 20px;
+}
+
+.main-img{
+    background-image: url(../assets/bg-main.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+}
+.body-info{
+    padding: 20px;
+}
+.body-info h2{
+    font-weight: 500;
+}
